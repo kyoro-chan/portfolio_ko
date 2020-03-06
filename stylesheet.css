@@ -1,0 +1,90 @@
+
+body {
+  font-family: serif;
+}
+
+.container {
+  max-width: 1170px;
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.head_tralor{
+  background-image: url("img/IMG_6745.JPG");
+  background-size:cover;
+  color:white;
+}
+
+.title{
+  padding-top: 80px;
+  padding-bottom: 20px;
+  text-align:center;
+}
+
+.tralor{
+  float:left;
+  width: 50%;
+}
+
+.tralor_left{
+  padding-left: 150px;
+  display: inline-block;
+}
+
+.tralor_right{
+  padding-left: 10px;
+  display: inline-block;
+}
+
+/*.tralor_left h4{
+  padding-bottom: 5px
+}*/
+
+.aboutme{
+  line-height:5px;
+  padding-left: 15px;
+  padding-bottom: 10px
+}
+
+.item{
+  font-size:14px;
+  padding-top: 8px;
+}
+
+.detail{
+  padding: 0  30px;
+  font-size:12px;
+  letter-spacing:5px;
+}
+
+.detail_year{
+  padding-left: 30px;
+  font-size:12px;
+  letter-spacing:3px;
+}
+
+.job_detail{
+  padding-left: 50px;
+  font-size:12px;
+  letter-spacing:3px;
+}
+
+li{
+  margin-bottom: 5px;
+}
+
+.reason{
+    padding: 0  30px;
+    font-size:12px;
+    letter-spacing:5px;
+}
+.clear{
+  clear:left;
+}
+
+/*.skill_list{
+  margin-top: 10px;
+  font-size:10px;
+
+}*/
